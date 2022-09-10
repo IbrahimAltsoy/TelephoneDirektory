@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\Muratyücedağ\TelephoneDirektory\TelephoneDirektory\bin\Debug\TelephoneDirektory.exe.config
+C:\Users\Lenovo\Desktop\Muratyücedağ\TelephoneDirektory\TelephoneDirektory\bin\Debug\TelephoneDirektory.exe
+C:\Users\Lenovo\Desktop\Muratyücedağ\TelephoneDirektory\TelephoneDirektory\bin\Debug\TelephoneDirektory.pdb
+C:\Users\Lenovo\Desktop\Muratyücedağ\TelephoneDirektory\TelephoneDirektory\obj\Debug\TelephoneDirektory.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Muratyücedağ\TelephoneDirektory\TelephoneDirektory\obj\Debug\TelephoneDirektory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Muratyücedağ\TelephoneDirektory\TelephoneDirektory\obj\Debug\TelephoneDirektory.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Muratyücedağ\TelephoneDirektory\TelephoneDirektory\obj\Debug\TelephoneDirektory.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Muratyücedağ\TelephoneDirektory\TelephoneDirektory\obj\Debug\TelephoneDirektory.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Muratyücedağ\TelephoneDirektory\TelephoneDirektory\obj\Debug\TelephoneDirektory.exe
+C:\Users\Lenovo\Desktop\Muratyücedağ\TelephoneDirektory\TelephoneDirektory\obj\Debug\TelephoneDirektory.pdb
+C:\Users\Lenovo\Desktop\Muratyücedağ\TelephoneDirektory\TelephoneDirektory\obj\Debug\TelephoneDirektory.Directory.resources
+C:\Users\Lenovo\Desktop\Muratyücedağ\TelephoneDirektory\TelephoneDirektory\obj\Debug\TelephoneDirektory.Login.resources
+C:\Users\Lenovo\Desktop\Muratyücedağ\TelephoneDirektory\TelephoneDirektory\obj\Debug\TelephoneDirektory.Users.resources
